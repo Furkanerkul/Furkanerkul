@@ -1,5 +1,4 @@
 # 💫 About Me:
-💼 I'm currently working on www.bionluk.com aspect a freelancer<br>💬 For ask question furkanerkul1938@gmail.com<br>
 
 
 ## 🌐 Socials:
