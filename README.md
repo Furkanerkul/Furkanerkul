@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello! My name is Furkan Erkul.
+💼 Working as Freelancer [bionluk.com](https://bionluk.com/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/furkanerkul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/furkanerkul1938) 
